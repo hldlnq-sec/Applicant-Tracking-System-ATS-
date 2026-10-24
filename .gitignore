@@ -51,5 +51,12 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+# Build and temp-files VS
+Debug/
+x64/
+*.pdb
+*.user
+
 # debug information files
 *.dwo
+
